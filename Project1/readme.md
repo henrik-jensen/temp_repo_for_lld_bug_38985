@@ -1,2 +1,2 @@
 
-A project created with the steps described in [../repro.txt](../repro.txt)
+A project created with the steps described in [../repro.md](../repro.md)
