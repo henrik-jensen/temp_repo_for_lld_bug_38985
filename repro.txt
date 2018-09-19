@@ -12,8 +12,8 @@
 7. Start Visual Studio 2017
 8. File menu: New->Project->Visual C++->Windows Desktop
 9. Leave name as Project1
-0. Uncheck Precompiled Headers and SDL Checks
-1. Click Ok
+10. Uncheck Precompiled Headers and SDL Checks
+11. Click Ok
 	Creates an Hello World stub Project1.cpp.
 12. Save Project1.cpp as UTF8 No BOM ( Wizard generated a UTF16 file with BOM
 	that clang, and everyone else, hates)
