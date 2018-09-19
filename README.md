@@ -4,6 +4,8 @@ Temporary repo to store and exchange info for a possible vs2017 msbuild/vcpkg bu
 
 see https://bugs.llvm.org/show_bug.cgi?id=38985
 
-Please open an issue if you want to contact me regarding this.
+Please create a new issue if you want to discuss/contact me regarding this.
+
+Hopefully I'll get time to add more info and some repros later.
 
 Henrik.
