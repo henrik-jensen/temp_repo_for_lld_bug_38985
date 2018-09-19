@@ -6,6 +6,6 @@ see https://bugs.llvm.org/show_bug.cgi?id=38985
 
 Please create a new issue if you want to discuss/contact me regarding this.
 
-Hopefully I'll get time to add more info and some repros later.
+Hopefully I'll get time to add more info, some repros and work arounds later.
 
 Henrik.
